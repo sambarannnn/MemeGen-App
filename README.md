@@ -3,3 +3,4 @@ Random meme generator App built with Kotlin using Volley, Glide and a random-mem
 
 Pull new memes, save/share, implemented nsfw filter in code.
 Dark theme friendly UI.
+<img src="readme/first.jpg" height=250px width=500px>
